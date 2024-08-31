@@ -11,9 +11,9 @@
 
 ## API
 
-This project utilizes [The Movie Database (TMDb) API](<a href="https://www.themoviedb.org/documentation/api" target="_blank">TMDb API</a>) to retrieve information on movies and TV shows.
+This project utilizes <a href="https://www.themoviedb.org/documentation/api" target="_blank">TMDb API</a> to retrieve information on movies and TV shows.
 
-> **Note:** An API key is required to access the TMDb API. You can obtain your API key [here](<a href="https://www.themoviedb.org/documentation/api" target="_blank">TMDb API Key</a>). Once you have your key, place it inside `src/requests.js` as follows:
+> **Note:** An API key is required to access the TMDb API. You can obtain your API key <a href="https://www.themoviedb.org/documentation/api" target="_blank">TMDb API Key</a>. Once you have your key, place it inside `src/requests.js` as follows:
 
 ```javascript
 // src/requests.js
@@ -22,7 +22,7 @@ const API_KEY = "your_api_key_here";
 
 ## Hosted Site
 
-Check out the live version of the Netflix Clone at [https://netflix-clone-a8773.web.app/](<a href="https://netflix-clone-a8773.web.app/" target="_blank">Netflix Clone</a>).
+Check out the live version of the Netflix Clone at <a href="https://netflix-clone-a8773.web.app/" target="_blank">Netflix Clone</a>.
 
 ## Installation
 
