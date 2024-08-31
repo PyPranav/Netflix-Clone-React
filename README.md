@@ -67,10 +67,10 @@ Here are some screenshots showcasing the Netflix Clone:
 ### Home Page
 ![Home Page](https://lh3.googleusercontent.com/pw/AL9nZEVusPcbexQp_749pgyQVBIIbG2-suyPD6VtbfQjEygrVvaxeodQVaLjx61sCHhJXGVRzyZyDxRQsnXpodm0N4BX-CqR8UT-Vazz6vugXnbvu5LasOjLVkOPmj4mcVl0Azu1g_tb4Hz7H31WVC5j3hta=w1890-h938-no?authuser=0)
 
-### Movie Details
+### Categories
 ![Movie Details](https://lh3.googleusercontent.com/pw/AL9nZEW81fhQ-e8rKN-J28S5IFRTxnDSAO_FiQnAxjfGIrwqbti-qQPOcnG30zhUsFbBqA9MMA8jXmP3EkTHFySg02JpplsnyPADoDBOOAdUt8hg1mm9AR3aSQ6iGb36pnKgNDLysNdHglB8sNp7JUglwS30=w1891-h932-no?authuser=0)
 
-### Categories
+### Movie Details
 ![Categories](https://lh3.googleusercontent.com/pw/AL9nZEVz2yt4rzPi-WTAmBHeGfEa0Am9Et77qTHwDGrqVaPdCjB4kExtymdzzm5aAvdgFikBhOdQEFrnZ56gWQRuIMw5B0ZHEigOyYfOn2XwIrNY_mycFblvOoid-KDZTni9k1geaL4R02hup5TzsUDNfIV2=w1896-h927-no?authuser=0)
 
 ## Future Enhancements
